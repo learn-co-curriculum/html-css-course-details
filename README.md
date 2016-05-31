@@ -4,7 +4,7 @@
 
 Welcome to the Front-end Web Development track!
 
-This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is reccomended that students spend a minimum of 12 hours weekly on the course.
+This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is recommended that students spend a minimum of 12 hours weekly on the course.
 
 ### Lecture Videos & Readings
 
@@ -20,9 +20,10 @@ At critical milestones short quizzes are provided to test your knowledge of the 
 
 ### Labs
 
-Most learning units contain multiple labs. For each challenge you will be asked to open the lab in the local IDE that we've set you up with. Then you will follow alone with the instructions in the README.md file. After completing your lab you will mark it as complete and move on to the next lesson. 
+Most learning units contain multiple labs. For each challenge you will be asked to open the lab in the local IDE that we've set you up with. Then you will follow along with the instructions in the README.md file. After completing your lab you will mark it as complete and move on to the next lesson. 
 
 ### Personal Site Project
 
 Each student will build a personal website project for the course. At particular milestones students will be instructed to add particular features to their personal website project. The purpose of this project is to put into practice the things you have learned in the current completed unit. The site will progress with each unit giving you an understanding of how each concept fits together into a larger picture of how to build responsive websites. Each personal project is unique in content and it is up to you to decide what the subject matter of your site will be. Choose something that is simple enough to be executed in under a month spending a minimum of 3 or 4 hours per week working on it. Sites must be static content that is the same for all users. Do not plan on having a database or a site that requires a backend such as an ecommerce site or web app like Facebook. Keep it simple. Examples would be something like a portfolio site, family website, wedding site, fan site for a pet, friend, band, or a marketing site for a small business or non-profit. We will talk more about this project in a future lesson.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/html-css-course-details'>HTML-CSS-Course-Details</a> on Learn.co and start learning to code for free.</p>
