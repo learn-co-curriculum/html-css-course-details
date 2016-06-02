@@ -1,10 +1,6 @@
 # Front-end Web Development
 
-## About This Course
-
-Welcome to the Front-end Web Development track!
-
-This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is recommended that students spend a minimum of 12 hours weekly on the course.
+This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is recommended that students spend a minimum of 12 hours weekly on the course. In the previous lesson, we discussed READMEs and Labs. Now we'll give you more specifics on what you can expect from the lessons. 
 
 ### Lecture Videos & Readings
 
@@ -20,7 +16,7 @@ At critical milestones short quizzes are provided to test your knowledge of the 
 
 ### Labs
 
-Most learning units contain multiple labs. For each challenge you will be asked to open the lab in the local IDE that we've set you up with. Then you will follow along with the instructions in the README.md file. After completing your lab you will mark it as complete and move on to the next lesson. 
+Most learning units contain multiple labs. For each challenge you will be asked to open the lab in the local IDE that we've set you up with. Then you will follow along with the instructions in the README.md file. After completing your lab you will submit it and be able to move on to the next lesson. 
 
 ### Personal Site Project
 
