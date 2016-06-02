@@ -2,7 +2,7 @@
 
 ## About This Course
 
-Welcome to the Front-end Web Development track!
+Welcome to HTML & CSS: Building Responsive Websites!
 
 This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is recommended that students spend a minimum of 12 hours weekly on the course.
 
