@@ -1,6 +1,6 @@
 # Front-end Web Development
 
-This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. While this course is self paced, it is recommended that students spend a minimum of 12 hours weekly on the course. In the previous lesson, we discussed READMEs and Labs. Now we'll give you more specifics on what you can expect from the lessons. 
+This is a beginner level course but students are expected to have a general knowledge of computers such as opening and saving files. In the previous lesson, we discussed READMEs and Labs. Now we'll give you more specifics on what you can expect from the lessons. 
 
 ### Lecture Videos & Readings
 
